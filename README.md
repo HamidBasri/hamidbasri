@@ -1,16 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hamid%20Basri&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=I'm%20Hamid%20Basri%20-%20AI%20engineer%20and%20full%20stack%20developer" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=03045e&center=true&vCenter=true&width=650&lines=I'm%20Hamid%20Basri%20-%20AI%20engineer%20and%20full%20stack%20developer" alt="Typing introduction" />
 </p>
+
+AI Full Stack Developer focused on building intelligent, scalable, and user-centered applications. I combine backend, frontend, and AI to turn ideas into practical products.
+
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=hamidbasri">
-    <img src="https://komarev.com/ghpvc/?username=hamidbasri&label=Profile%20views&color=00FFFF&style=flat-square" alt="hamidbasri's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=hamidbasri&label=Profile%20views&color=03045e&style=flat-square" alt="hamidbasri's profile views" />
   </a>
 </p>
 
-## 🧠 My Focus Areas
+## My Focus Areas
 - AI-powered applications and LLM integrations
 - Full stack web platforms with modern frameworks
 - Data pipelines and scalable backend systems
@@ -18,7 +21,14 @@
 - Automation tools and API services
 
 
-## 📊 GitHub Stats & Trophies
+## About Me
+
+- Build AI-powered applications end to end  
+- Strong in system design, APIs, and data workflows  
+- Focus on real-world solutions, not just experiments  
+- Always learning and exploring new technologies  
+
+## GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hamidbasri&theme=dark&hide_border=true&cache_seconds=86400" alt="hamidbasri's GitHub Streak" width="49%" />
 </p>
