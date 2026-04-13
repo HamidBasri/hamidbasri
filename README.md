@@ -1,7 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hamid%20Basri&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=03045e&center=true&vCenter=true&width=650&lines=I'm%20Hamid%20Basri%20-%20AI%20engineer%20and%20full%20stack%20developer" alt="Typing introduction" />
+  <picture>
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=650&lines=I'm%20Hamid%20Basri%20-%20AI%20engineer%20and%20full%20stack%20developer"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=03045E&center=true&vCenter=true&width=650&lines=I'm%20Hamid%20Basri%20-%20AI%20engineer%20and%20full%20stack%20developer"
+      alt="Hamid Basri — AI engineer and full-stack developer"
+    />
+  </picture>
 </p>
 
 AI Full Stack Developer focused on building intelligent, scalable, and user-centered applications. I combine backend, frontend, and AI to turn ideas into practical products.
