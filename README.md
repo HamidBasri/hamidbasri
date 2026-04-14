@@ -175,7 +175,6 @@ class HamidBasri:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=hamidbasri&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamidbasri&langs_count=8&layout=compact&theme=github_dark&border_radius=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="38%"/>
 
 </div>
 
@@ -183,9 +182,6 @@ class HamidBasri:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidbasri&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true&title=Contribution%20Graph" width="95%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamidbasri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=8" width="49%"/>
-</div>
 
 ---
 
